@@ -1,0 +1,147 @@
+{
+  "version": "1.1.0",
+  "updatedAt": "2026-09-11T17:26:25.053Z",
+  "plugins": [
+    {
+      "id": "sqlite-mcp",
+      "name": "SQLite Database MCP",
+      "description": "Local SQLite database querying, schema inspection, tables listing, and SQL execution with zero external dependencies.",
+      "version": "1.0.0",
+      "author": "MCP Arena Community",
+      "icon": "database",
+      "category": "Database",
+      "tags": [
+        "sql",
+        "sqlite",
+        "database",
+        "query"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/sqlite-mcp/index.js",
+      "serverConfig": {
+        "command": "node",
+        "args": [
+          "{PLUGIN_DIR}/index.js"
+        ],
+        "env": {}
+      }
+    },
+    {
+      "id": "memory-mcp",
+      "name": "Knowledge Graph Memory",
+      "description": "Persistent knowledge-graph memory server allowing AI assistants to retain relations, entity facts, and context across sessions.",
+      "version": "1.0.0",
+      "author": "Model Context Protocol",
+      "icon": "brain",
+      "category": "AI & Memory",
+      "tags": [
+        "memory",
+        "knowledge-graph",
+        "context",
+        "persistence"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/memory-mcp/index.js",
+      "serverConfig": {
+        "command": "node",
+        "args": [
+          "{PLUGIN_DIR}/index.js"
+        ],
+        "env": {}
+      }
+    },
+    {
+      "id": "fetch-mcp",
+      "name": "Web Fetch & HTML to Markdown",
+      "description": "Extract clean markdown, parse JSON APIs, and scrape web pages safely for AI research and live browsing.",
+      "version": "1.0.0",
+      "author": "MCP Arena",
+      "icon": "globe",
+      "category": "Web & Search",
+      "tags": [
+        "fetch",
+        "markdown",
+        "scraper",
+        "http",
+        "api"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/fetch-mcp/index.js",
+      "serverConfig": {
+        "command": "node",
+        "args": [
+          "{PLUGIN_DIR}/index.js"
+        ],
+        "env": {}
+      }
+    },
+    {
+      "id": "time-mcp",
+      "name": "System & Timezone Utilities",
+      "description": "Accurate UTC/local system time conversions, timezone offsets, high-precision timestamps, and platform diagnostic stats.",
+      "version": "1.0.0",
+      "author": "MCP Arena",
+      "icon": "clock",
+      "category": "Utility",
+      "tags": [
+        "time",
+        "timezone",
+        "system",
+        "clock"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/time-mcp/index.js",
+      "serverConfig": {
+        "command": "node",
+        "args": [
+          "{PLUGIN_DIR}/index.js"
+        ],
+        "env": {}
+      }
+    },
+    {
+      "id": "git-mcp",
+      "name": "Git Insights & History MCP",
+      "description": "Deep Git repository inspection, automated diff analysis, branch listing, and commit log querying for AI coding agents.",
+      "version": "1.0.0",
+      "author": "MCP Arena",
+      "icon": "git-branch",
+      "category": "Development",
+      "tags": [
+        "git",
+        "vcs",
+        "diff",
+        "commits",
+        "history"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/git-mcp/index.js",
+      "serverConfig": {
+        "command": "node",
+        "args": [
+          "{PLUGIN_DIR}/index.js"
+        ],
+        "env": {}
+      }
+    },
+    {
+      "id": "filesystem-pro",
+      "name": "Filesystem Pro & Batch Inspector",
+      "description": "Fast recursive directory trees, SHA256 checksums, large file finder, and line-count code analytics.",
+      "version": "1.0.0",
+      "author": "MCP Arena",
+      "icon": "folder-tree",
+      "category": "Filesystem",
+      "tags": [
+        "filesystem",
+        "tree",
+        "checksum",
+        "hash",
+        "analytics"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/filesystem-pro/index.js",
+      "serverConfig": {
+        "command": "node",
+        "args": [
+          "{PLUGIN_DIR}/index.js"
+        ],
+        "env": {}
+      }
+    }
+  ]
+}
