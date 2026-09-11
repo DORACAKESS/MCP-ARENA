@@ -1,24 +1,24 @@
 {
-  "version": "1.1.0",
-  "releaseDate": "2026-09-11T18:15:29.259Z",
+  "version": "1.2.0",
+  "releaseDate": "2026-09-11T20:50:07.461Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-      "sha256": "2616164ba03c6ee53d61795d79f1bc21895f3a67e09e53c64849fb54c408cfbe",
-      "fileSizeBytes": 245593600,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.2.0/MCP-Manager-Setup.exe",
+      "sha256": "4b6d929be3c7b75bd2ec217b4c0f4f4dc235dd24f83127660809a9ce469a02b5",
+      "fileSizeBytes": 245594624,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-mac-arm64.zip",
-      "sha256": "35e5f42a34386f08b29e0ea7748aaf746a3083552a1e0f713af22c8d2a95e9c8",
-      "fileSizeBytes": 326437476,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.2.0/MCP-Manager-mac-arm64.zip",
+      "sha256": "883ff08c61f3c9bfc92a4457158ffda02264e56605f3d3a902d0297b82506126",
+      "fileSizeBytes": 326438986,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
-  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-  "sha256": "2616164ba03c6ee53d61795d79f1bc21895f3a67e09e53c64849fb54c408cfbe",
-  "fileSizeBytes": 245593600,
+  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.2.0/MCP-Manager-Setup.exe",
+  "sha256": "4b6d929be3c7b75bd2ec217b4c0f4f4dc235dd24f83127660809a9ce469a02b5",
+  "fileSizeBytes": 245594624,
   "mandatory": false,
-  "releaseNotes": "v1.1.0 Bug Fix: Fixed Arena AI chat tab viewport height collapse glitch, ASAR protected binary packaging (no source leak), code minification/mangling, MCP Plugins tab with dynamic GitHub store, and persist:arena OAuth login."
+  "releaseNotes": "v1.2.0 Update: Fixed Google OAuth login ('This browser or app may not be secure'), Cloudflare Quick Tunnel connection timeout auto-recovery with HTTP/2 fallback, local MCP endpoint fallback (http://127.0.0.1:4000/mcp), and cross-platform Windows & macOS releases."
 }
