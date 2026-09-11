@@ -1,7 +1,10 @@
 {
   "version": "1.1.0",
-  "releaseDate": "2026-09-11",
-  "setupUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-  "sha256": "fc112405fcb912460bbeb503986ac3d956b2026c8dd9f9ebf3ba1ca9305faa5f",
-  "notes": "Sleek Left Slide Bar (Uiverse.io inspired), 3-Choice Window Exit Modal (Cancel, Hide to Tray, Close), clean production packaging (230 MB), detached Setup.exe auto-close, auto-preview split."
+  "releaseDate": "2026-09-11T15:34:11.754Z",
+  "minSupportedVersion": "1.0.0",
+  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
+  "sha256": "a1ff401ba853fb33c58675f41ade3f3977049b1cd596d1aac2e6b012aaa80262",
+  "fileSizeBytes": 247831040,
+  "mandatory": false,
+  "releaseNotes": "v1.1.0 Release: Modern Tailwind & Uiverse-styled left slide bar with collapsible mini-rail, 3-option confirmation exit modal (Cancel, Hide to Tray, Close), background tray notifications, auto-closing setup installer, zero sensitive source code leak hardening, and Arena.ai compact preview integration."
 }
