@@ -1,24 +1,24 @@
 {
   "version": "1.1.0",
-  "releaseDate": "2026-09-11T17:36:51.468Z",
+  "releaseDate": "2026-09-11T17:54:20.955Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-      "sha256": "72dc977acf6e72eb3256a7f7737742af4773c6533af6bd80f9edc3e5267c6b2e",
-      "fileSizeBytes": 247847936,
+      "sha256": "06ea6851939af3fe97f872c2812c8f7e7afc142abd703988d67dd0471026b5bb",
+      "fileSizeBytes": 245593088,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-mac-arm64.zip",
-      "sha256": "bd84395f0ce0e7cbcff3f84c24eea5dd353dcd0747d6be168e7db660f5c5a80d",
-      "fileSizeBytes": 328929017,
+      "sha256": "c231ad3d2f7f808a30262bb7738fe401dc4040d3d7a273884c1d31bc3d4c53b6",
+      "fileSizeBytes": 326436787,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
   "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-  "sha256": "72dc977acf6e72eb3256a7f7737742af4773c6533af6bd80f9edc3e5267c6b2e",
-  "fileSizeBytes": 247847936,
+  "sha256": "06ea6851939af3fe97f872c2812c8f7e7afc142abd703988d67dd0471026b5bb",
+  "fileSizeBytes": 245593088,
   "mandatory": false,
-  "releaseNotes": "v1.1.0 Release: MCP Plugins & Extension Store (fetchable and configurable directly from GitHub without app updates), native webview persist:arena session architecture with OAuth login fix (eliminates 'Auth session missing!'), CMD quote-stripping resolution for AI one-liners, cross-platform macOS (ARM64) and Windows packages, zero sensitive source code leak hardening, and auto-closing installer."
+  "releaseNotes": "v1.1.0 Release: ASAR protected binary packaging (completely eliminating source code exposure), code minification and symbol mangling, MCP Plugins & Extension Store (fetchable directly from GitHub), native webview persist:arena session architecture with OAuth login fix, and cross-platform macOS (ARM64) and Windows packages."
 }
