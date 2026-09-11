@@ -1,10 +1,24 @@
 {
   "version": "1.1.0",
-  "releaseDate": "2026-09-11T15:34:11.754Z",
+  "releaseDate": "2026-09-11T17:36:51.468Z",
   "minSupportedVersion": "1.0.0",
+  "platforms": {
+    "win32": {
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
+      "sha256": "72dc977acf6e72eb3256a7f7737742af4773c6533af6bd80f9edc3e5267c6b2e",
+      "fileSizeBytes": 247847936,
+      "fileName": "MCP-Manager-Setup.exe"
+    },
+    "darwin": {
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-mac-arm64.zip",
+      "sha256": "bd84395f0ce0e7cbcff3f84c24eea5dd353dcd0747d6be168e7db660f5c5a80d",
+      "fileSizeBytes": 328929017,
+      "fileName": "MCP-Manager-mac-arm64.zip"
+    }
+  },
   "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-  "sha256": "a1ff401ba853fb33c58675f41ade3f3977049b1cd596d1aac2e6b012aaa80262",
-  "fileSizeBytes": 247831040,
+  "sha256": "72dc977acf6e72eb3256a7f7737742af4773c6533af6bd80f9edc3e5267c6b2e",
+  "fileSizeBytes": 247847936,
   "mandatory": false,
-  "releaseNotes": "v1.1.0 Release: Modern Tailwind & Uiverse-styled left slide bar with collapsible mini-rail, 3-option confirmation exit modal (Cancel, Hide to Tray, Close), background tray notifications, auto-closing setup installer, zero sensitive source code leak hardening, and Arena.ai compact preview integration."
+  "releaseNotes": "v1.1.0 Release: MCP Plugins & Extension Store (fetchable and configurable directly from GitHub without app updates), native webview persist:arena session architecture with OAuth login fix (eliminates 'Auth session missing!'), CMD quote-stripping resolution for AI one-liners, cross-platform macOS (ARM64) and Windows packages, zero sensitive source code leak hardening, and auto-closing installer."
 }
