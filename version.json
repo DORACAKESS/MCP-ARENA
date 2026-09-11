@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+   "releaseDate": "2026-09-12",
+    "setupUrl": "https://github.com/your-org/mcp-manager/releases/download/v1.1.0/MCP-Manager-Setup.exe",
+    "sha256": "abcdef123456...",
+    "notes": "Added multi-chat tabs and auto-preview split."
+  }
