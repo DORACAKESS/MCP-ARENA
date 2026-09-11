@@ -1,24 +1,24 @@
 {
   "version": "1.1.0",
-  "releaseDate": "2026-09-11T17:54:20.955Z",
+  "releaseDate": "2026-09-11T18:15:29.259Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-      "sha256": "06ea6851939af3fe97f872c2812c8f7e7afc142abd703988d67dd0471026b5bb",
-      "fileSizeBytes": 245593088,
+      "sha256": "2616164ba03c6ee53d61795d79f1bc21895f3a67e09e53c64849fb54c408cfbe",
+      "fileSizeBytes": 245593600,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-mac-arm64.zip",
-      "sha256": "c231ad3d2f7f808a30262bb7738fe401dc4040d3d7a273884c1d31bc3d4c53b6",
-      "fileSizeBytes": 326436787,
+      "sha256": "35e5f42a34386f08b29e0ea7748aaf746a3083552a1e0f713af22c8d2a95e9c8",
+      "fileSizeBytes": 326437476,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
   "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-  "sha256": "06ea6851939af3fe97f872c2812c8f7e7afc142abd703988d67dd0471026b5bb",
-  "fileSizeBytes": 245593088,
+  "sha256": "2616164ba03c6ee53d61795d79f1bc21895f3a67e09e53c64849fb54c408cfbe",
+  "fileSizeBytes": 245593600,
   "mandatory": false,
-  "releaseNotes": "v1.1.0 Release: ASAR protected binary packaging (completely eliminating source code exposure), code minification and symbol mangling, MCP Plugins & Extension Store (fetchable directly from GitHub), native webview persist:arena session architecture with OAuth login fix, and cross-platform macOS (ARM64) and Windows packages."
+  "releaseNotes": "v1.1.0 Bug Fix: Fixed Arena AI chat tab viewport height collapse glitch, ASAR protected binary packaging (no source leak), code minification/mangling, MCP Plugins tab with dynamic GitHub store, and persist:arena OAuth login."
 }
