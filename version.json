@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
-   "releaseDate": "2026-09-12",
-    "setupUrl": "https://github.com/your-org/mcp-manager/releases/download/v1.1.0/MCP-Manager-Setup.exe",
-    "sha256": "abcdef123456...",
-    "notes": "Added multi-chat tabs and auto-preview split."
-  }
+  "releaseDate": "2026-09-11",
+  "setupUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.1.0/MCP-Manager-Setup.exe",
+  "sha256": "fc112405fcb912460bbeb503986ac3d956b2026c8dd9f9ebf3ba1ca9305faa5f",
+  "notes": "Sleek Left Slide Bar (Uiverse.io inspired), 3-Choice Window Exit Modal (Cancel, Hide to Tray, Close), clean production packaging (230 MB), detached Setup.exe auto-close, auto-preview split."
+}
