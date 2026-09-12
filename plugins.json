@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "updatedAt": "2026-09-11T17:26:25.053Z",
+  "version": "1.2.0",
+  "updatedAt": "2026-09-12T17:00:00.000Z",
   "plugins": [
     {
       "id": "browser-use",
@@ -18,7 +18,11 @@
         "screenshot",
         "web"
       ],
-      "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/browser-use/index.js",
+      "downloadType": "folder",
+      "archiveUrl": "https://github.com/DORACAKESS/browser-use/archive/refs/heads/main.zip",
+      "gitUrl": "https://github.com/DORACAKESS/browser-use.git",
+      "folderUrl": "https://api.github.com/repos/DORACAKESS/MCP-ARENA/contents/plugins/browser-use",
+      "downloadUrl": "https://github.com/DORACAKESS/browser-use/archive/refs/heads/main.zip",
       "serverConfig": {
         "command": "node",
         "args": [
@@ -41,6 +45,8 @@
         "database",
         "query"
       ],
+      "downloadType": "folder",
+      "folderUrl": "https://api.github.com/repos/DORACAKESS/MCP-ARENA/contents/plugins/sqlite-mcp",
       "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/sqlite-mcp/index.js",
       "serverConfig": {
         "command": "node",
@@ -64,6 +70,8 @@
         "context",
         "persistence"
       ],
+      "downloadType": "folder",
+      "folderUrl": "https://api.github.com/repos/DORACAKESS/MCP-ARENA/contents/plugins/memory-mcp",
       "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/memory-mcp/index.js",
       "serverConfig": {
         "command": "node",
@@ -88,6 +96,8 @@
         "http",
         "api"
       ],
+      "downloadType": "folder",
+      "folderUrl": "https://api.github.com/repos/DORACAKESS/MCP-ARENA/contents/plugins/fetch-mcp",
       "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/fetch-mcp/index.js",
       "serverConfig": {
         "command": "node",
@@ -111,6 +121,8 @@
         "system",
         "clock"
       ],
+      "downloadType": "folder",
+      "folderUrl": "https://api.github.com/repos/DORACAKESS/MCP-ARENA/contents/plugins/time-mcp",
       "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/time-mcp/index.js",
       "serverConfig": {
         "command": "node",
@@ -135,6 +147,8 @@
         "commits",
         "history"
       ],
+      "downloadType": "folder",
+      "folderUrl": "https://api.github.com/repos/DORACAKESS/MCP-ARENA/contents/plugins/git-mcp",
       "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/git-mcp/index.js",
       "serverConfig": {
         "command": "node",
@@ -159,6 +173,8 @@
         "hash",
         "analytics"
       ],
+      "downloadType": "folder",
+      "folderUrl": "https://api.github.com/repos/DORACAKESS/MCP-ARENA/contents/plugins/filesystem-pro",
       "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/filesystem-pro/index.js",
       "serverConfig": {
         "command": "node",
