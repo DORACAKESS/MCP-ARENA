@@ -1,24 +1,24 @@
 {
   "version": "1.3.4",
-  "releaseDate": "2026-09-12T09:07:30.830Z",
+  "releaseDate": "2026-09-12T09:14:01.306Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.4/MCP-Manager-Setup.exe",
-      "sha256": "bdb5aa88b3ab709036fac3fce5144bee50f7548174fdf10690c2883fa89ae4e3",
-      "fileSizeBytes": 245643776,
+      "sha256": "9a4d0d1c321db2eec19652a3179126e2e88f4b81c9145616bc27d9b1b40fb360",
+      "fileSizeBytes": 245644288,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.4/MCP-Manager-mac-arm64.zip",
-      "sha256": "dfd6d90117ea757be8a8194b76411a349c1d09d0ce994b1da85103c7134c48c5",
-      "fileSizeBytes": 166351124,
+      "sha256": "3c80ccc94cb3d14f3e191445c0d05110f472bd840b863644b75fc600739fa846",
+      "fileSizeBytes": 166350860,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
   "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.4/MCP-Manager-Setup.exe",
-  "sha256": "bdb5aa88b3ab709036fac3fce5144bee50f7548174fdf10690c2883fa89ae4e3",
-  "fileSizeBytes": 245643776,
+  "sha256": "9a4d0d1c321db2eec19652a3179126e2e88f4b81c9145616bc27d9b1b40fb360",
+  "fileSizeBytes": 245644288,
   "mandatory": false,
   "releaseNotes": "v1.3.4 Release: Added 1-Click genuine Chrome/Edge CDP login and auto-sync, completely bypassing Google OAuth security blocks for Arena Chat."
 }
