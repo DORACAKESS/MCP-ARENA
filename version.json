@@ -1,24 +1,24 @@
 {
-  "version": "1.3.0",
-  "releaseDate": "2026-09-11T21:08:24.464Z",
+  "version": "1.3.1",
+  "releaseDate": "2026-09-12T07:59:36.823Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.0/MCP-Manager-Setup.exe",
-      "sha256": "c3c30c09053e55211d6f1bfacdea1b79d0ba215102163b38cfbfdea46f03df0b",
-      "fileSizeBytes": 245597184,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.1/MCP-Manager-Setup.exe",
+      "sha256": "f87859743b82c5287b8b1abc5208aada7849c37345b19f81f234d569ce3926ae",
+      "fileSizeBytes": 245608448,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.0/MCP-Manager-mac-arm64.zip",
-      "sha256": "83785c190af690868bdee72450bb746660e27f351bc8d47b01d6fa7677663c6d",
-      "fileSizeBytes": 166300909,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.1/MCP-Manager-mac-arm64.zip",
+      "sha256": "c9c3837d7bb27b282146aaef822d1a64420cdb018a77789e24ca9e04783c92ca",
+      "fileSizeBytes": 166317567,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
-  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.0/MCP-Manager-Setup.exe",
-  "sha256": "c3c30c09053e55211d6f1bfacdea1b79d0ba215102163b38cfbfdea46f03df0b",
-  "fileSizeBytes": 245597184,
+  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.1/MCP-Manager-Setup.exe",
+  "sha256": "f87859743b82c5287b8b1abc5208aada7849c37345b19f81f234d569ce3926ae",
+  "fileSizeBytes": 245608448,
   "mandatory": false,
-  "releaseNotes": "v1.3.0 Release: Resolved macOS SIGTRAP startup crash (mac error.txt) with genuine UNIX symlinks & Info.plist integrity fix, automatic SSH Tunnel (localhost.run) failover bypassing Cloudflare outages, Google OAuth login resolution, and updated packages for Windows and macOS."
+  "releaseNotes": "v1.3.1 Release: Fixed Google OAuth login ('This browser or app may not be secure') via Firefox UA override and added 1-click External Browser Session Sync."
 }
