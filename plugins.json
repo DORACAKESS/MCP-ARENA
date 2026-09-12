@@ -3,6 +3,31 @@
   "updatedAt": "2026-09-11T17:26:25.053Z",
   "plugins": [
     {
+      "id": "browser-use",
+      "name": "Browser-Use Automation MCP",
+      "description": "Control a real Chrome browser to complete any task: fill forms, extract data, click, type, and take screenshots with auto-environment detection.",
+      "version": "0.13.5",
+      "author": "Browser Use",
+      "icon": "globe",
+      "category": "Browser & Automation",
+      "tags": [
+        "browser",
+        "chrome",
+        "automation",
+        "scrape",
+        "screenshot",
+        "web"
+      ],
+      "downloadUrl": "https://raw.githubusercontent.com/DORACAKESS/MCP-ARENA/main/plugins/browser-use/index.js",
+      "serverConfig": {
+        "command": "node",
+        "args": [
+          "{PLUGIN_DIR}/index.js"
+        ],
+        "env": {}
+      }
+    },
+    {
       "id": "sqlite-mcp",
       "name": "SQLite Database MCP",
       "description": "Local SQLite database querying, schema inspection, tables listing, and SQL execution with zero external dependencies.",
