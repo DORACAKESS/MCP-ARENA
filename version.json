@@ -1,23 +1,23 @@
 {
-  "version": "1.4.0",
-  "releaseDate": "2026-09-12T13:21:49.391Z",
+  "version": "1.5.0",
+  "releaseDate": "2026-09-12T18:47:20.022Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.4.0/MCP-Manager-Setup.exe",
-      "sha256": "114da1ebae9829ca4a220bb459b95623a5b5c893fd05e815ecfad95eea3a8ad8",
-      "fileSizeBytes": 245652992,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.5.0/MCP-Manager-Setup.exe",
+      "sha256": "ce389415015b45a82617fd4973998560ddc26c41f692de4f782bbec92623646b",
+      "fileSizeBytes": 245658112,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.4.0/MCP-Manager-mac-arm64.zip",
-      "sha256": "c858caa2c3e3bb219100c60682d430cf8c3cffc5957db48c87bb4ad03f7b9905",
-      "fileSizeBytes": 166353243,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.5.0/MCP-Manager-mac-arm64.zip",
+      "sha256": "3824125fe9fa7b25397cdf5ed672529529819eaab2b4e75fce21530de1cf5c82",
+      "fileSizeBytes": 166371901,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
-  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.4.0/MCP-Manager-Setup.exe",
-  "sha256": "114da1ebae9829ca4a220bb459b95623a5b5c893fd05e815ecfad95eea3a8ad8",
-  "fileSizeBytes": 245652992,
-  "releaseNotes": "v1.4.0 Release: Grok Projects Workspace tab with persistent session partition, Live On-Tab Tool Call Notifications HUD for Arena and Grok, 1-Click Chrome/Edge login auto-sync, and crash guards."
+  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.5.0/MCP-Manager-Setup.exe",
+  "sha256": "ce389415015b45a82617fd4973998560ddc26c41f692de4f782bbec92623646b",
+  "fileSizeBytes": 245658112,
+  "releaseNotes": "v1.5.0 Release: Grok Projects full workspace parity, reverse proxy SSE buffering and keepalive fixes, AI tunnel discovery endpoints (/url), clean factory release defaults, and upgrade data preservation."
 }
