@@ -1,24 +1,24 @@
 {
-  "version": "1.3.2",
-  "releaseDate": "2026-09-12T08:08:34.130Z",
+  "version": "1.3.3",
+  "releaseDate": "2026-09-12T08:49:43.764Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.2/MCP-Manager-Setup.exe",
-      "sha256": "071fe5115ec86e63de90b7a12e284324d48611a00ef6f7d4394189adc7c1ab16",
-      "fileSizeBytes": 245608448,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.3/MCP-Manager-Setup.exe",
+      "sha256": "93e4f8d8344de175577b0703be7f4d002ca49f1f35819bd4d4baec377e44ec68",
+      "fileSizeBytes": 245608960,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.2/MCP-Manager-mac-arm64.zip",
-      "sha256": "ff892c2b9f67da8316ff6eeb3901eda8bcd2beba3f22d87cb37d7ea0440e58f0",
-      "fileSizeBytes": 166318155,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.3/MCP-Manager-mac-arm64.zip",
+      "sha256": "5f5e22b59ad8be2e2b1ecfac97adbecb071ad3d9da658f4521816214f14e3c26",
+      "fileSizeBytes": 166319563,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
-  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.2/MCP-Manager-Setup.exe",
-  "sha256": "071fe5115ec86e63de90b7a12e284324d48611a00ef6f7d4394189adc7c1ab16",
-  "fileSizeBytes": 245608448,
+  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.3.3/MCP-Manager-Setup.exe",
+  "sha256": "93e4f8d8344de175577b0703be7f4d002ca49f1f35819bd4d4baec377e44ec68",
+  "fileSizeBytes": 245608960,
   "mandatory": false,
-  "releaseNotes": "v1.3.2 Release: Fixed Arena.ai infinite refresh loop, added Native 1-Click Login Dialog (Google, Apple, Email), and upgraded browser session import (cURL & Cookie-Editor JSON)."
+  "releaseNotes": "v1.3.3 Release: Added direct Email OTP login, expanded 10-second browser session sync (DevTools cURL & Cookie-Editor JSON), and native Chrome/Edge app mode."
 }
