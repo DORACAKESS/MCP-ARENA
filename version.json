@@ -1,23 +1,23 @@
 {
-  "version": "1.5.0",
-  "releaseDate": "2026-09-12T18:47:20.022Z",
+  "version": "1.6.0",
+  "releaseDate": "2026-09-14T09:08:58.750Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.5.0/MCP-Manager-Setup.exe",
-      "sha256": "ce389415015b45a82617fd4973998560ddc26c41f692de4f782bbec92623646b",
-      "fileSizeBytes": 245658112,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-Setup.exe",
+      "sha256": "a4d5ac8d911d7c67647dcd25af8508d45332a4357858055690a2851ee7984462",
+      "fileSizeBytes": 245677056,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.5.0/MCP-Manager-mac-arm64.zip",
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-mac-arm64.zip",
       "sha256": "3824125fe9fa7b25397cdf5ed672529529819eaab2b4e75fce21530de1cf5c82",
       "fileSizeBytes": 166371901,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
-  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.5.0/MCP-Manager-Setup.exe",
-  "sha256": "ce389415015b45a82617fd4973998560ddc26c41f692de4f782bbec92623646b",
-  "fileSizeBytes": 245658112,
-  "releaseNotes": "v1.5.0 Release: Grok Projects full workspace parity, reverse proxy SSE buffering and keepalive fixes, AI tunnel discovery endpoints (/url), clean factory release defaults, and upgrade data preservation."
+  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-Setup.exe",
+  "sha256": "a4d5ac8d911d7c67647dcd25af8508d45332a4357858055690a2851ee7984462",
+  "fileSizeBytes": 245677056,
+  "releaseNotes": "v1.6.0 Release: Dedicated Permanent Gateways & Custom Reverse Proxies Tab, Zero /sse clean endpoints, real-time proxy latency verification, dynamic AI setup prompts for Arena & Grok, and fast update architecture with betterversion.json."
 }
