@@ -1,0 +1,31 @@
+{
+  "version": "1.6.0",
+  "releaseDate": "2026-09-14T09:08:58.753Z",
+  "minSupportedVersion": "1.0.0",
+  "manifestVersion": 2,
+  "fastUpdateSupported": true,
+  "platforms": {
+    "win32": {
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-Setup.exe",
+      "sha256": "a4d5ac8d911d7c67647dcd25af8508d45332a4357858055690a2851ee7984462",
+      "fileSizeBytes": 245677056,
+      "fileName": "MCP-Manager-Setup.exe",
+      "fastUpdateUrl": null,
+      "fastUpdateSha256": null,
+      "fastUpdateSizeBytes": null
+    },
+    "darwin": {
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-mac-arm64.zip",
+      "sha256": "3824125fe9fa7b25397cdf5ed672529529819eaab2b4e75fce21530de1cf5c82",
+      "fileSizeBytes": 166371901,
+      "fileName": "MCP-Manager-mac-arm64.zip",
+      "fastUpdateUrl": null,
+      "fastUpdateSha256": null,
+      "fastUpdateSizeBytes": null
+    }
+  },
+  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-Setup.exe",
+  "sha256": "a4d5ac8d911d7c67647dcd25af8508d45332a4357858055690a2851ee7984462",
+  "fileSizeBytes": 245677056,
+  "releaseNotes": "v1.6.0 Release: Dedicated Permanent Gateways & Custom Reverse Proxies Tab, Zero /sse clean endpoints, real-time proxy latency verification, dynamic AI setup prompts for Arena & Grok, and fast update architecture with betterversion.json."
+}
