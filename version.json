@@ -1,23 +1,23 @@
 {
-  "version": "1.6.0",
-  "releaseDate": "2026-09-14T09:08:58.750Z",
+  "version": "2.0.0",
+  "releaseDate": "2026-09-15T20:30:46.221Z",
   "minSupportedVersion": "1.0.0",
   "platforms": {
     "win32": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-Setup.exe",
-      "sha256": "a4d5ac8d911d7c67647dcd25af8508d45332a4357858055690a2851ee7984462",
-      "fileSizeBytes": 245677056,
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.0.0/MCP-Manager-Setup.exe",
+      "sha256": "5abb37af1894be253ef4af7797ab691b8b446727b2a83e9885731e5c58f6b3f8",
+      "fileSizeBytes": 245688320,
       "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
-      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-mac-arm64.zip",
+      "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.0.0/MCP-Manager-mac-arm64.zip",
       "sha256": "3824125fe9fa7b25397cdf5ed672529529819eaab2b4e75fce21530de1cf5c82",
       "fileSizeBytes": 166371901,
       "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
-  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v1.6.0/MCP-Manager-Setup.exe",
-  "sha256": "a4d5ac8d911d7c67647dcd25af8508d45332a4357858055690a2851ee7984462",
-  "fileSizeBytes": 245677056,
-  "releaseNotes": "v1.6.0 Release: Dedicated Permanent Gateways & Custom Reverse Proxies Tab, Zero /sse clean endpoints, real-time proxy latency verification, dynamic AI setup prompts for Arena & Grok, and fast update architecture with betterversion.json."
+  "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.0.0/MCP-Manager-Setup.exe",
+  "sha256": "5abb37af1894be253ef4af7797ab691b8b446727b2a83e9885731e5c58f6b3f8",
+  "fileSizeBytes": 245688320,
+  "releaseNotes": "v2.0.0 Release: Zero-lag dashboard with background log virtualization, lazy 'Start Chat' launchers for Arena AI and Grok Projects tabs saving 500MB+ RAM, seamless fast differential updates (<5MB payload) via betterversion.json, exhaustive MCP tools guide in skills/mcp-guide.md, and upgraded zero-dependency UTF-8 Python tool runner."
 }
