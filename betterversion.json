@@ -1,19 +1,19 @@
 {
   "version": "2.0.0",
-  "releaseDate": "2026-09-15T20:30:46.224Z",
+  "releaseDate": "2026-09-20T09:27:12.820Z",
   "minSupportedVersion": "1.0.0",
   "manifestVersion": 2,
   "fastUpdateSupported": true,
   "platforms": {
     "win32": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.0.0/MCP-Manager-Setup.exe",
-      "sha256": "5abb37af1894be253ef4af7797ab691b8b446727b2a83e9885731e5c58f6b3f8",
-      "fileSizeBytes": 245688320,
+      "sha256": "75c116e3970f820dbe06f62de389cdb3595db7d07714aba11bb6c6a1a052e27a",
+      "fileSizeBytes": 295492096,
       "fileName": "MCP-Manager-Setup.exe",
-      "fastUpdateUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.0.0/app.asar",
-      "fastUpdateSha256": "8213a3e092f55f73df41850ca589a27b557a431be609919b3db3af8a797f4632",
-      "fastUpdateSizeBytes": 251754709,
-      "fastUpdateFileName": "app.asar"
+      "fastUpdateUrl": "https://github.com/DORACAKESS/MCP-UPDATER/releases/download/v2.0.0/mcp-update-differential.zip",
+      "fastUpdateSha256": "e07089328c8bd8929be02384901f2be9a11f6c9ae760b9e842ac6d37d6305f82",
+      "fastUpdateSizeBytes": 424801,
+      "fastUpdateFileName": "mcp-update-differential.zip"
     },
     "darwin": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.0.0/MCP-Manager-mac-arm64.zip",
@@ -26,7 +26,7 @@
     }
   },
   "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.0.0/MCP-Manager-Setup.exe",
-  "sha256": "5abb37af1894be253ef4af7797ab691b8b446727b2a83e9885731e5c58f6b3f8",
-  "fileSizeBytes": 245688320,
-  "releaseNotes": "v2.0.0 Release: Zero-lag dashboard with background log virtualization, lazy 'Start Chat' launchers for Arena AI and Grok Projects tabs saving 500MB+ RAM, seamless fast differential updates (<5MB payload) via betterversion.json, exhaustive MCP tools guide in skills/mcp-guide.md, and upgraded zero-dependency UTF-8 Python tool runner."
+  "sha256": "75c116e3970f820dbe06f62de389cdb3595db7d07714aba11bb6c6a1a052e27a",
+  "fileSizeBytes": 295492096,
+  "releaseNotes": "v2.0.0 Release: Modern Linear-grade dark UI, Browser-Use MCP with multi-tab support and CDP automation, Git tools separated strictly to user-controlled Git tab, dormant lazy webview launchers, and tiny 0.4MB differential updater published to dedicated repository."
 }
