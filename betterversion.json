@@ -1,32 +1,31 @@
 {
   "version": "2.1.0",
-  "releaseDate": "2026-09-20T10:06:12.069Z",
+  "releaseDate": "2026-09-20T10:31:30.915Z",
   "minSupportedVersion": "1.0.0",
   "manifestVersion": 2,
-  "fastUpdateSupported": true,
+  "fastUpdateSupported": false,
   "platforms": {
     "win32": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-Setup.exe",
-      "sha256": "197217c9662d2a26e3f3c0948eca9314a31da02b8caac1ceb506399009e91d84",
-      "fileSizeBytes": 295477248,
-      "fileName": "MCP-Manager-Setup.exe",
-      "fastUpdateUrl": "https://github.com/DORACAKESS/MCP-UPDATER/releases/download/v2.1.0/mcp-update-differential.zip",
-      "fastUpdateSha256": "0941325079e2cf0ae49f9db3bacd5518105c1fd52c828535dfa74e1756ff29da",
-      "fastUpdateSizeBytes": 410721,
-      "fastUpdateFileName": "mcp-update-differential.zip"
+      "setupUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-Setup.exe",
+      "fullSetupUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-Setup.exe",
+      "sha256": "4b9a7c4ae0a82eaf4209f53aa3085f675a161cd1ea991f6ea54e19353a41998c",
+      "fileSizeBytes": 295459328,
+      "fileName": "MCP-Manager-Setup.exe"
     },
     "darwin": {
       "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-mac-arm64.zip",
+      "setupUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-mac-arm64.zip",
+      "fullSetupUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-mac-arm64.zip",
       "sha256": "3824125fe9fa7b25397cdf5ed672529529819eaab2b4e75fce21530de1cf5c82",
       "fileSizeBytes": 166371901,
-      "fileName": "MCP-Manager-mac-arm64.zip",
-      "fastUpdateUrl": null,
-      "fastUpdateSha256": null,
-      "fastUpdateSizeBytes": null
+      "fileName": "MCP-Manager-mac-arm64.zip"
     }
   },
   "downloadUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-Setup.exe",
-  "sha256": "197217c9662d2a26e3f3c0948eca9314a31da02b8caac1ceb506399009e91d84",
-  "fileSizeBytes": 295477248,
-  "releaseNotes": "v2.1.0 Release: Modern Linear-grade dark UI, Browser-Use MCP with multi-tab support and CDP automation, Git tools separated strictly to user-controlled Git tab, dormant lazy webview launchers, and tiny 0.4MB differential updater published to dedicated repository."
+  "setupUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-Setup.exe",
+  "fullSetupUrl": "https://github.com/DORACAKESS/MCP-ARENA/releases/download/v2.1.0/MCP-Manager-Setup.exe",
+  "sha256": "4b9a7c4ae0a82eaf4209f53aa3085f675a161cd1ea991f6ea54e19353a41998c",
+  "fileSizeBytes": 295459328,
+  "releaseNotes": "v2.1.0 Release: Automated native setup installer with seamless auto-forward upgrade, Modern Linear-grade dark UI, Browser-Use MCP with multi-tab support and CDP automation, Git tools separated strictly to user-controlled Git tab, and dormant lazy webview launchers."
 }
